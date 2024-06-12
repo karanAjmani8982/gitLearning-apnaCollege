@@ -1,2 +1,3 @@
-# gitLearning-apnaCollegePractice
+# gitLearning-apnaCollege
+
 Demo Practice Project
